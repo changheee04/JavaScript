@@ -1,0 +1,1 @@
+alert('test static javaScript file, use to alert');
